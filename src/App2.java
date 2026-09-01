@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// Ejemplo de la clase semana 2
 public class App2 {
     public static void main(String[] args){
         double balance = 2000;
